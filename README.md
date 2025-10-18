@@ -237,4 +237,4 @@ SnapFlow Architecture
 
 ### Add Your Own Game
 
-Check out `NEW_GAME.md` for a step-by-step guide on creating and integrating your own games into SnapFlow.
+Check out [NEW_GAME.md](NEW_GAME.md) for a step-by-step guide on creating and integrating your own games into SnapFlow.
